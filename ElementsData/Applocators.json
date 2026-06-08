@@ -1,0 +1,18 @@
+{
+    "URL" : "http://127.0.0.1/orangehrm-2.5.0.2/login.php",
+    "XUN" : "input[type = 'text']",
+    "XPWD" : "input[type = 'password']",
+    "XSUB" : "input[type = 'Submit']",
+    "XPIM" : "//li[@id = 'pim']",
+    "XADD" : "//span[text() = 'Add Employee']",
+    "XFRAME" : "//iframe[@id = 'rightMenu']",
+    "XID" : "//input[@id = 'txtEmployeeId']",
+    "XLAST" : "//input[@id = 'txtEmpLastName']",
+    "XFIRST" : "//input[@id = 'txtEmpFirstName']",
+    "XMIDDLE" : "//input[@id = 'txtEmpMiddleName']",
+    "XNICK" : "//input[@id = 'txtEmpNickName']",
+    "XPHOTO" : "//input[@id = 'photofile']",
+    "XSAVE" : "//input[@id = 'btnEdit']",
+    "XBACK" : "//input[@value = 'Back']"
+
+}
